@@ -14,7 +14,7 @@
     "bootstrap": "^5.0.0",
     "cors": "^2.8.4",
     "dotenv": "^6.0.0",
-    "eth-crypto": "^1.2.3",
+    "eth-crypto": "^3.0.0",
     "ethjs-unit": "^0.1.6",
     "express": "^4.16.3",
     "i": "^0.3.6",
@@ -24,7 +24,7 @@
     "react-dom": "^16.4.2",
     "react-responsive-modal": "^3.3.0",
     "react-scripts": "5.0.1",
-    "web3": "^1.0.0-beta.35"
+    "web3": "^4.13.0"
 
   },
   "scripts": {
